@@ -1,0 +1,124 @@
+.white-card {
+	width: 100px;
+	display: flex; 	
+	flex-direction: column; 	
+	flex-wrap: wrap; 	
+	justify-content: space-around; 	
+	align-items: center; 	
+	align-content: space-around;
+	height: 1000px
+}
+
+#une {
+	height: 220px;
+	width: 220px;
+	object-fit: contain;
+	padding: 20px;
+	margin-top: 30px;
+	margin: 20px;
+	left: 80px;
+	position: absolute;
+	top: 225px;
+}
+
+#deux {
+	width: 160px;
+	height: 160px;
+	object-fit: contain;
+	padding: 20px;
+	position: absolute;
+	margin: 20px;
+	left: 110px;
+    top: 485px;
+}
+
+#trois {
+	height: 260px;
+	width: 260px;
+	object-fit: contain;
+	position: absolute;
+	padding: 20px;
+	margin: 20px;
+	left: 830px;
+    top: -9px;
+}
+
+#quatre {
+	height: 240px;
+	width: 240px;
+	object-fit: contain;
+	padding: 20px;
+	position: absolute;
+	left: 478px;
+    top: 16px;
+}
+
+#cinq {
+	height: 160px;
+	width: 160px;
+	object-fit: contain;
+	padding: 20px;
+	position: absolute;
+	left: 130px;
+    top: 40px;
+}
+
+#six {
+	height: 300px;
+	width: 300px;
+	object-fit: contain;
+	padding: 20px;
+	position: absolute;
+	left: 445px;
+    top: 450px;
+}
+
+#sept {
+	height: 180px;
+	width: 180px;
+	object-fit: contain;
+	padding: 20px;
+	position: absolute;
+	left: 515px;
+    top: 260px;
+}
+
+#huit {
+	height: 320px;
+	width: 320px;
+	object-fit: contain;
+	padding: 20px;
+	position: absolute;
+	left: 650px;
+    top: 630px;
+}
+
+#neuf {
+	height: 320px;
+	width: 320px;
+	object-fit: contain;
+	padding: 20px;
+	position: absolute;
+	left: 250px;
+    top: 630px;
+}
+
+#dix {
+	height: 230px;
+	width: 230px;
+	object-fit: contain;
+	padding: 20px;
+	position: absolute;
+	left: 860px;
+    top: 460px;
+}
+
+#onze {
+	height: 260px;
+	width: 260px;
+	object-fit: contain;
+	padding: 20px;
+	position: absolute;
+	left: 850px;
+    top: 220px;
+}

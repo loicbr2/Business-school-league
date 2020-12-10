@@ -1,0 +1,11 @@
+.card-image {
+	position: relative;/*2*/
+	overflow: hidden;/*3*/
+}
+
+.card-image img {
+  width: 25%;
+  margin: 0px auto;
+  padding: 10px 10px;
+  vertical-align: middle;
+}

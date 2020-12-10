@@ -1,0 +1,16 @@
+.navbar {
+	background: #0D1774;
+	display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	justify-content: space-around;
+	align-items: baseline;
+	align-content: stretch;
+	position: sticky;
+	top: 0px;
+	margin: 0px;
+	z-index: 1
+	
+
+
+}

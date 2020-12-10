@@ -1,0 +1,129 @@
+/* Import Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+
+
+/* Import your Components */
+@import url("compenents/navbar.css");
+@import url("compenents/container.css");
+@import url("compenents/banner.css");
+@import url("compenents/white-card.css");
+@import url("compenents/card-white.css");
+@import url("compenents/card-image.css");
+@import url("compenents/card-title.css");
+@import url("compenents/card.css");
+@import url("compenents/card-testi.css");
+
+
+
+/* Define your basic styling rules below */
+
+body {
+	margin: 0px;
+	font-family: Roboto;
+	font-size: 17px;
+	}
+
+button {
+	border-radius: 25px;
+	box-shadow: 0px 2px 3px black;
+	border: solid;
+	background-color: #0D1774;
+	font-size: 15px;
+	color: white;
+	padding-top: 10px;
+    padding-bottom: 10px;
+    border-color: white;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+button:hover {
+	color: darkblue;
+	background-color: white;
+ }
+
+
+h1 {
+    margin-top: 0px;
+    color: white;
+    font-size: 67px;
+  }
+
+h2 {
+    
+    color: white;
+    font-size: 52px;
+  }
+
+h3 {
+    margin-top: 43.160px;
+	color: white;
+	font-size: 20px;
+  }
+
+h4 {
+   font-size: 25px;
+
+}
+
+h1, h2, h3, h4, h6 {
+	text-align: center;
+	font-family: "Roboto";
+	font-weight: bolder;
+
+}
+
+h5 {
+	margin-left: 15px;
+    margin-right: 15px;
+    margin-top: 5px;
+    margin-bottom: 15px;
+    font-family: "Roboto";
+    font-weight: bolder;
+}
+
+h6 {
+	font-size: 25px;
+	margin-bottom: 25px;
+
+}
+
+p {
+	margin-top: 10px;
+    margin-bottom: 15px;
+    margin-left: 15px;
+    margin-right: 15px;
+    font-size: 14px;
+}
+
+a {
+	text-decoration: none;
+	color: white;
+	padding: 20px;
+	font-size: 15px;
+	font-weight: bolder;
+	}
+
+i {
+	font-size: 50px;
+	color: darkblue;
+
+}
+
+li {
+
+	list-style-type: none;
+	display: inline;
+	text-align: center;
+}
+
+ul {
+
+	margin-bottom: 200px;
+    padding-left: 210px;
+}
+
+a:hover {
+	background-color: white;
+	color: darkblue
+}
